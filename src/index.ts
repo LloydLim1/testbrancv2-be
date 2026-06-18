@@ -1,0 +1,1 @@
+export const SERVICE_NAME = 'testbrancv2-backend';
